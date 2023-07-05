@@ -2,7 +2,28 @@
     "data":[
         {
             "id":1,
-            "name":"xyz"
+            "name":"money plant",
+            "url":"./IMG/moneyPlant.png"
+        },
+        {
+            "id":2,
+            "name":"money plant 2",
+            "url":"./IMG/moneyPlant.png"
+        },
+        {
+            "id":3,
+            "name":"money plant 3",
+            "url":"./IMG/moneyPlant.png"
+        },
+        {
+            "id":4,
+            "name":"money plant 4",
+            "url":"./IMG/moneyPlant.png"
+        },
+        {
+            "id":5,
+            "name":"money plant 5",
+            "url":"./IMG/moneyPlant.png"
         }
     ]
 }
