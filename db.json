@@ -309,5 +309,14 @@
     
     
     
+    ],
+
+    "users":[
+        {
+            "id":1,
+            "name":"user",
+            "emai":"user@mail.com",
+            "password":"asdf1234"
+        }
     ]
 }
